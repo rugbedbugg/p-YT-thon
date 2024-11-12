@@ -16,7 +16,7 @@ This Python script allows you to download YouTube videos directly to your local 
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/youtube-video-downloader.git
+    git clone https://github.com/rugbedbugg/youtube-video-downloader.git
     cd youtube-video-downloader
     ```
 
