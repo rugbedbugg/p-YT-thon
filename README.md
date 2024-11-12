@@ -37,7 +37,7 @@ This Python script allows you to download YouTube videos directly to your local 
 1. **Run the script:**
 
     ```sh
-    python downloader.py
+    main.py
     ```
 
 2. **Input the URL of the YouTube video you wish to download when prompted.**
